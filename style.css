@@ -1,0 +1,18 @@
+body {
+   font-family: sans-serif; /* Sets a default font */
+   margin: 0; /* Removes default browser margins */
+   padding: 0;
+}
+
+header, main, footer {
+  padding: 20px;
+   text-align: center;
+}
+
+header {
+  background-color: #f0f0f0;
+}
+
+footer {
+   background-color: #e0e0e0;
+}
